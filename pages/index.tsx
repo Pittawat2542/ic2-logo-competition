@@ -28,6 +28,7 @@ const Home: NextPage = () => {
 				<h1 className='text-5xl font-bold text-center mb-3'>
 					IC2 Logo Design Competition
 				</h1>
+				<p>Click on the card of logo to enlarge 🔎.</p>
 			</header>
 
 			<div className='flex justify-center'>
