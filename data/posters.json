@@ -206,5 +206,45 @@
     "abstract": "",
     "imageUrl": "images/Logo 26.jpg",
     "course": ""
+  },
+  {
+    "posterId": 27,
+    "authors": [""],
+    "title": "",
+    "abstract": "",
+    "imageUrl": "images/Logo 27.png",
+    "course": ""
+  },
+  {
+    "posterId": 28,
+    "authors": [""],
+    "title": "",
+    "abstract": "",
+    "imageUrl": "images/Logo 28.png",
+    "course": ""
+  },
+  {
+    "posterId": 29,
+    "authors": [""],
+    "title": "",
+    "abstract": "",
+    "imageUrl": "images/Logo 29.png",
+    "course": ""
+  },
+  {
+    "posterId": 30,
+    "authors": [""],
+    "title": "",
+    "abstract": "",
+    "imageUrl": "images/Logo 30.png",
+    "course": ""
+  },
+  {
+    "posterId": 31,
+    "authors": [""],
+    "title": "",
+    "abstract": "",
+    "imageUrl": "images/Logo 31.png",
+    "course": ""
   }
 ]
