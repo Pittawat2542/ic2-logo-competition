@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+div.grid-item:last-child:nth-child(3n - 1) {
+  grid-column-end: -2;
+}
+
+div.grid-item:nth-last-child(2):nth-child(3n + 1) {
+  grid-column-end: 4;
+}
+
+div.grid-item:last-child:nth-child(3n - 2) {
+  grid-column-end: 5;
+}
