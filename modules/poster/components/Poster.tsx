@@ -19,7 +19,7 @@ const Poster = ({ poster, className, onClick }: PosterProps) => {
 				<PosterImage imageURL={poster.imageURL} pdfURL={poster.pdfURL} />
 				<div className='flex justify-between items-center mb-5'>
 					<h1 className='font-bold text-2xl inline-block mt-3 mb-2'>
-						Logo #{poster.id}
+						{poster.id === 32 ? 'Current Logo' : `Logo #${poster.id}`}
 					</h1>
 				</div>
 			</div>
